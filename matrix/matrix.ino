@@ -22,7 +22,7 @@ void setup() {
   pinMode(column3, INPUT);
 
   Serial.begin(9600);
-  Serial.write("Hello World! \n");
+  Serial.write("Connection Started! \n");
 }
 
 // Check
